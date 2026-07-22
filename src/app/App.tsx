@@ -1,5 +1,5 @@
-import { StartupPage } from "../presentation/pages/StartupPage";
+import { WorkspacePage } from "../presentation/pages/WorkspacePage";
 
 export function App() {
-  return <StartupPage />;
+  return <WorkspacePage />;
 }

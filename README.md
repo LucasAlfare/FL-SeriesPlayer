@@ -34,6 +34,7 @@ As primeiras etapas já estão prontas:
 2. Modelagem do domínio
 3. Primeiros casos de uso para vídeos
 4. Persistência com SQLite e testes automatizados
+5. Shell visual inicial da interface
 
 ## O que já funciona
 
@@ -42,6 +43,7 @@ As primeiras etapas já estão prontas:
 - Casos de uso para adicionar, listar, buscar e remover vídeos
 - Persistência real com SQLite
 - Testes automatizados para validar o repositório e um fluxo de caso de uso com banco real
+- Estrutura visual modular com header, sidebar, área principal e footer
 
 ## Desenvolvimento
 
