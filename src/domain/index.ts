@@ -22,6 +22,7 @@ export * from "./errors/InvalidDomainValueError";
 export * from "./errors/NotFoundDomainError";
 export * from "./ports/CategoryRepository";
 export * from "./ports/FavoriteRepository";
+export * from "./ports/IdGenerator";
 export * from "./ports/HistoryRepository";
 export * from "./ports/PlaybackProgressRepository";
 export * from "./ports/PlaybackRuleRepository";
